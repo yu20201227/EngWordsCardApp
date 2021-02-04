@@ -1,0 +1,36 @@
+PODS:
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - lottie-ios (3.1.9)
+  - SDWebImage (5.10.2):
+    - SDWebImage/Core (= 5.10.2)
+  - SDWebImage/Core (5.10.2)
+  - SwiftyJSON (5.0.0)
+  - VerticalCardSwiper (2.3.1)
+
+DEPENDENCIES:
+  - ChameleonFramework
+  - lottie-ios
+  - SDWebImage
+  - SwiftyJSON
+  - VerticalCardSwiper
+
+SPEC REPOS:
+  trunk:
+    - ChameleonFramework
+    - lottie-ios
+    - SDWebImage
+    - SwiftyJSON
+    - VerticalCardSwiper
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  lottie-ios: 3a3758ef5a008e762faec9c9d50a39842f26d124
+  SDWebImage: b969dcfc02c40a5da71eac0b03b8f1a0c794a86f
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  VerticalCardSwiper: 68df635b354500f86934ea044ade37a264c044c6
+
+PODFILE CHECKSUM: 93c2e738c24b768d0bf14790e7a6141ea62cf699
+
+COCOAPODS: 1.10.1
